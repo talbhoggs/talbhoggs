@@ -5,10 +5,10 @@ Welcome to my GitHub repository. Here you will mostly find projects that I have 
 ### :fire: Stats :
 
 <a href="https://github.com/talbhoggs/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talbhoggs&theme=dark&card_width=320" />
+  <img height=200 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=talbhoggs&theme=dark&card_width=320" />
 </a>
 <a href="https://github.com/talbhoggs/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=talbhoggs&card_width=3-0&theme=dark" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api?username=talbhoggs&card_width=300&theme=dark&show_icons=true" />
 </a>
 
 
